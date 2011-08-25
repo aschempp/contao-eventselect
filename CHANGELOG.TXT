@@ -2,6 +2,6 @@
 Contao Extension "eventselect"
 ==============================
 
-Version 1.0.0 stable
---------------------
+Version 1.0.0 stable (2011-08-25)
+---------------------------------
 - Initial release
